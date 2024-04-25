@@ -1,0 +1,461 @@
+.desktop{
+    width: 1440px;
+height: 1200px;
+top: -513px;
+left: 3920px;
+gap: 0px;
+opacity: 0px;
+background-color:#FFFFFF;
+}
+/*
+للمستطيل الاخضر
+*/
+
+
+/* عند start*/
+
+.fram9{
+    width: Fixed (1,175px)px;
+    height: Hug (50px)px;
+    top: 35px;
+    left: 135px;
+    gap: 0px;
+    justify: space-between;
+    opacity: 0px;
+    display: flex;
+    flex-direction: row;
+    
+    display: flex;
+    flex-direction: row;
+    background: #74C69D;
+
+}
+.rectangel{
+    
+    width: 1440px;
+    height: 123px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+
+}
+.fram4{
+    width: Hug (187px)px;
+    height: Hug (50px)px;
+    gap: 18px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: row;
+    background: #74C69D;
+    margin-top: 10px;
+
+    
+
+}
+.groub1{
+    width: 70px;
+    height: 48.31px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 40px;    
+
+}
+.Start{
+    width: 99px;
+height: 50px;
+gap: 0px;
+opacity: 0px;
+font-family: Work Sans;
+font-size: 40px;
+font-weight: 500;
+line-height: 50px;
+text-align: left;
+color: #FFFFFF;
+margin-left: 55px;
+margin-top: 25px;
+}
+.fram8{
+    width: Hug (391px)px;
+height: Hug (25px)px;
+gap: 30px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+justify-content: end;
+color: #FFFFFF;
+margin-left: 50%;
+margin-top: 20px;
+
+}
+.farm25{
+    width: Hug (411px)px;
+    height: Hug (162px)px;
+    top: 158px;
+    left: 515px;
+    gap: 16px;
+    opacity: 0px;    
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+justify-content: center;
+}
+.petentium{
+    width: 74px;
+height: 20px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography / Label / Bold;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 5px;
+text-align: center;
+color: #74C69D;
+margin-left: 50%;
+}
+.Contentiones{
+    width: 220px;
+height: 50px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Heading/Bold 1;
+font-family: Crimson Text;
+font-size: 30px;
+font-weight: 700;
+line-height: 50px;
+text-align: center;
+margin-left: 45%;
+color: black;
+}
+.Zrilpetentiumsita{
+    width: 411px;
+height: 60px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Sub-Heading/Regular;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+text-align: center;
+margin-left: 40%;
+}
+.fram75{
+    width: Hug (1,227px)px;
+    height: Hug (542px)px;
+    top: 398px;
+    left: 107px;
+    gap: 105px;
+    opacity: 0px;    
+display: flex;
+flex-direction: row;
+justify-content: center;
+justify-content:space-around ;
+}
+.fram72{
+    width: Hug (339px)px;
+    height: Hug (542px)px;
+    padding: 46px 30px 46px 30px;
+    gap: 10px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+    box-shadow: 3px 4px 12px 1px #00000040;
+justify-content: center;
+}
+.fram73{
+    width: Hug (339px)px;
+    height: Hug (542px)px;
+    padding: 46px 30px 46px 30px;
+    gap: 10px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+    box-shadow: 3px 4px 12px 1px #00000040;
+justify-content: center;
+}
+.fram74{
+    width: Hug (339px)px;
+    height: Hug (542px)px;
+    padding: 46px 30px 46px 30px;
+    gap: 10px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+    box-shadow: 3px 4px 12px 1px #00000040;
+justify-content: center;
+}
+.fram69{
+    width: Hug (279px)px;
+    height: Hug (450px)px;
+    gap: 45px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-around;
+}
+.fram70{
+    width: Hug (279px)px;
+height: Hug (450px)px;
+gap: 45px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+justify-content: space-around;
+}
+.farm72{
+    width: Hug (279px)px;
+    height: Hug (450px)px;
+    gap: 45px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-around;
+}
+.fram68{
+    width: Hug (279px)px;
+height: Hug (357px)px;
+gap: 52px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+justify-content: space-around;
+}
+.fram59{
+    width: Hug (279px)px;
+height: Hug (136px)px;
+gap: 10px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+justify-content: space-around;
+}
+.farm58{
+    width: Hug (159px)px;
+height: Hug (69px)px;
+gap: 0px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+justify-content: space-around;
+}
+.Basic{
+    width: 39px;
+height: 19px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Body/Regular;
+font-family: Work Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 18.75px;
+text-align: left;
+color: black;
+}
+.Plus{
+    width: 31px;
+height: 19px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Body/Regular;
+font-family: Work Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 18.75px;
+text-align: left;
+color: black;
+}
+.Pro{
+    width: 25px;
+height: 19px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Body/Regular;
+font-family: Work Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 18.75px;
+text-align: left;
+color: black;
+}
+.fram57{
+    width: Hug (167px)px;
+height: Hug (50px)px;
+gap: 9px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+justify-content: space-around;
+
+}
+.outer{
+    width: 31px;
+height: 19px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Body/Regular;
+font-family: Work Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 18.75px;
+text-align: left;
+margin-left: 30%;
+
+}
+.inner{
+    width: 103px;
+height: 50px;
+gap: 0px;
+opacity: 0px;
+font-family: Work Sans;
+font-size: 35px;
+font-weight: 700;
+line-height: 50px;
+text-align: left;
+color: black;
+}
+.month{
+    width: 55px;
+height: 19px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Body/Regular;
+font-family: Work Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 18.75px;
+text-align: left;
+color: #21252980;
+margin-top: 50px;
+
+}
+.lorem2{
+    width: 279px;
+height: 57px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Body/Regular;
+font-family: Work Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 18.75px;
+text-align: center;
+color: #21252980;
+
+}
+.fram67{
+    width: Hug (203px)px;
+height: Hug (169px)px;
+gap: 11px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+margin-bottom: 20px;
+}
+.fram62{
+    width: Hug (203px)px;
+height: Hug (25px)px;
+gap: 11px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+.true{
+    width: 6px;
+height: 25px;
+padding: 5.86px 3.12px 5.86px 4.69px;
+gap: 0px;
+opacity: 0px;
+
+}
+.lorem3{
+    width: 167px;
+height: 19px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Body/Regular;
+font-family: Work Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 18.75px;
+text-align: center;
+color: #212529;
+}
+.button2{
+    width: 170px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+top: 13px;
+list-style: Typography/Sub-Heading/Regular;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+text-align: center;
+margin-left: 25%;
+background-color: black;
+color: #FFFFFF;
+}
+.groub24{
+    width: 1440px;
+height: 125px;
+top: 2915px;
+gap: 0px;
+opacity: 0px;
+background: #74C69D;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+margin-top: 50px;
+
+}
+.fram31{
+    width: Fixed (1,178px)px;
+height: Hug (25px)px;
+top: 2966px;
+left: 131px;
+gap: 0px;
+justify: space-between;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+justify-content: start;
+margin-left: 100px;
+}
+.fram30{
+    width: Hug (242.52px)px;
+height: Hug (18px)px;
+gap: 20px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+
+}
+.logo{
+    width: 326px;
+height: 25px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Sub-Heading/Regular;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+text-align: right;
+color: #FFFFFF;
+margin-left: 35%;
+}

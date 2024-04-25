@@ -1,0 +1,348 @@
+.desktop{
+    width: 1440px;
+height: 949px;
+top: -513px;
+left: 6263px;
+gap: 0px;
+opacity: 0px;
+background: #FFFFFF;
+}
+.header{
+    width: 1440px;
+height: 123px;
+gap: 0px;
+opacity: 0px;
+background: #74C69D;
+}
+.fram9{
+    width: Fixed (1,175px)px;
+    height: Hug (50px)px;
+    top: 35px;
+    left: 135px;
+    gap: 0px;
+    justify: space-between;
+    opacity: 0px;
+    display: flex;
+    flex-direction: row;
+    
+    display: flex;
+    flex-direction: row;
+    background: #74C69D;
+
+}
+.rectangel{
+    
+    width: 1440px;
+    height: 123px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+
+}
+.fram4{
+    width: Hug (187px)px;
+    height: Hug (50px)px;
+    gap: 18px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: row;
+    background: #74C69D;
+    margin-top: 10px;
+
+    
+
+}
+.groub1{
+    width: 70px;
+    height: 48.31px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 40px;    
+
+}
+.Start{
+    width: 99px;
+height: 50px;
+gap: 0px;
+opacity: 0px;
+font-family: Work Sans;
+font-size: 40px;
+font-weight: 500;
+line-height: 50px;
+text-align: left;
+color: #FFFFFF;
+margin-left: 55px;
+margin-top: 25px;
+}
+.fram8{
+    width: Hug (391px)px;
+height: Hug (25px)px;
+gap: 30px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+justify-content: end;
+color: #FFFFFF;
+margin-left: 50%;
+margin-top: 20px;
+
+}
+.fram25{
+    width: Hug (411px)px;
+height: Hug (126px)px;
+top: 153px;
+left: 515px;
+gap: 16px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+justify-content: space-around;
+
+}
+.Contentiones{
+    width: 187px;
+height: 50px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Heading/Bold 1;
+font-family: Crimson Text;
+font-size: 40px;
+font-weight: 7650;
+line-height: 50px;
+text-align: center;
+margin-left: 45%;
+color: black;
+
+}
+.Zrilpetentiumsita{
+    width: 411px;
+height: 60px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Sub-Heading/Regular;
+font-family: Work Sans;
+font-size: 25px;
+font-weight: 400;
+line-height: 25px;
+text-align: center;
+color: black;
+margin-left: 40%;
+}
+
+.fram53{
+    width: Hug (1,180px)px;
+height: Hug (385px)px;
+top: 346px;
+left: 130px;
+gap: 30px;
+opacity: 0px;
+display: flex;
+flex-direction:row ;
+justify-content: center;
+justify-content: space-around;
+}
+.fram52{
+    width: Hug (575px)px;
+height: Hug (385px)px;
+gap: 21px;
+opacity: 0px;
+display: flex;
+flex-direction:column ;
+justify-content: space-around;
+}
+.gh1{
+    width: 575px;
+height: 384px;
+gap: 0px;
+opacity: 0px;
+
+}
+.fram49{
+    width: Hug (575px)px;
+height: Hug (79px)px;
+gap: 16px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+}
+.fram50{
+    width: Hug (575px)px;
+    height: Hug (79px)px;
+    gap: 16px;
+    opacity: 0px;
+    
+}
+.fram51{
+    width: Hug (575px)px;
+height: Hug (116px)px;
+gap: 16px;
+opacity: 0px;
+
+}
+.Name{
+    width: 57px;
+height: 25px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Sub-Heading/Regular;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+text-align: left;
+color: black;
+}
+.Rectangle249{
+    width: 575px;
+    height: 38px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    
+background: #EEEEEE;
+border: 1px solid #000000
+}
+.Rectangle250{
+    width: 575px;
+    height: 38px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    
+background: #EEEEEE;
+border: 1px solid #000000
+}
+.Email{
+    width: 55px;
+height: 25px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Sub-Heading/Regular;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+text-align: left;
+color: #000000;
+}
+.Message{
+    width: 84px;
+height: 25px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Sub-Heading/Regular;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+text-align: left;
+color: #000000;
+}
+.Rectangle250{
+    width: 575px;
+height: 75px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+background: #EEEEEE;
+border: 1px solid #000000
+}
+.darkButton{
+    width: 575px;
+height: 48px;
+gap: 0px;
+opacity: 0px;
+
+}
+.Button{
+    width: 71px;
+height: 25px;
+top: 13px;
+left: 251.87px;
+gap: 0px;
+opacity: 0px;
+styleName: Typography/Sub-Heading/Regular;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+text-align: center;
+margin-left: 45%;
+background: #212529;
+color: #FFFFFF;
+margin-top: 10px;
+}
+.ractangel{
+    width: 575px;
+height: 48px;
+gap: 0px;
+opacity: 0px;
+background: #212529;
+
+}
+.Groub{
+    width: 629.08px;
+height: 403.44px;
+top: -9.72px;
+left: -27.04px;
+gap: 0px;
+opacity: 0px;
+margin-top: 50px;
+}
+.groub24{
+    width: 1440px;
+height: 125px;
+top: 2915px;
+gap: 0px;
+opacity: 0px;
+background: #74C69D;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+margin-top: 50px;
+
+}
+.fram31{
+    width: Fixed (1,178px)px;
+height: Hug (25px)px;
+top: 2966px;
+left: 131px;
+gap: 0px;
+justify: space-between;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+justify-content: start;
+margin-left: 100px;
+}
+.fram30{
+    width: Hug (242.52px)px;
+height: Hug (18px)px;
+gap: 20px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+
+}
+.logo{
+    width: 326px;
+height: 25px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Sub-Heading/Regular;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+text-align: right;
+color: #FFFFFF;
+margin-left: 35%;
+}

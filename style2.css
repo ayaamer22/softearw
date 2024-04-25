@@ -1,0 +1,276 @@
+.desktop{
+    width: 1440px;
+height: 2300px;
+top: -513px;
+left: 1577px;
+gap: 0px;
+opacity: 0px;
+background-color: #FFFFFF;
+
+}
+.fram9{
+    width: Fixed (1,175px)px;
+    height: Hug (50px)px;
+    top: 35px;
+    left: 135px;
+    gap: 0px;
+    justify: space-between;
+    opacity: 0px;
+    display: flex;
+    flex-direction: row;
+    background: #74C69D;
+    
+
+}
+.fram4{
+    width: Hug (187px)px;
+    height: Hug (50px)px;
+    gap: 18px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: row;
+    
+
+    
+
+}
+.groub1{
+    width: 70px;
+    height: 48.31px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 40px;    
+
+}
+.Start{
+    width: 99px;
+height: 50px;
+gap: 0px;
+opacity: 0px;
+font-family: Work Sans;
+font-size: 40px;
+font-weight: 500;
+line-height: 50px;
+text-align: left;
+color: #FFFFFF;
+margin-left: 55px;
+margin-top: 25px;
+}
+.fram8{
+    width: Hug (391px)px;
+height: Hug (25px)px;
+gap: 30px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+justify-content: end;
+color: #FFFFFF;
+margin-left: 50%;
+margin-top: 20px;
+}
+.fram25{
+    width: Hug (411px)px;
+    height: Hug (162px)px;
+    top: 153px;
+    left: 515px;
+    gap: 16px;
+    opacity: 0px;
+    
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+.petentium{
+    width: 80px;
+height: 20px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography / Label / Bold;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 5px;
+text-align: center;
+color: #74C69D;
+margin-left: 50%;
+}
+.Contentiones{
+    width: 157px;
+height: 50px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Heading/Bold 1;
+font-family: Crimson Text;
+font-size: 40px;
+font-weight: 700;
+line-height: 50px;
+text-align: center;
+color: black;
+margin-left: 47%;
+
+}
+.Zrilpetentiumsita{
+    width: 411px;
+height: 60px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Sub-Heading/Regular;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+text-align: center;
+color: black;
+margin-left: 40%;
+}
+.fram48{
+    width: Hug (1,187px)px;
+height: Hug (1,567px)px;
+top: 397px;
+left: 130px;
+gap: 55px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+
+
+}
+.fram43{
+    width: Hug (1,180px)px;
+height: Hug (335px)px;
+gap: 55px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+.dscdscd1{
+    width: 570px;
+height: 334.54px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+border: 1.5px 0px 0px 0px;
+opacity: 0px;
+
+}
+.Frame42{
+    width: 555px;
+height: 335px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+border: 1.5px 0px 0px 0px;
+opacity: 0px;
+
+}
+.fram44{
+    width: Hug (1,180px)px;
+    height: Hug (365px)px;
+    gap: 55px;
+    opacity: 0px;    
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+.Fram43{
+    width: 570px;
+    height: 365px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    border: 1.5px 0px 0px 0px;
+    opacity: 0px;
+    
+
+}
+.groub42{
+    width: 555px;
+height: 364px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+border: 1.5px 0px 0px 0px;
+opacity: 0px;
+
+}
+.fram45{
+    width: Hug (1,183px)px;
+height: Hug (355px)px;
+gap: 55px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+
+}
+.fram47{
+    width: Hug (1,187px)px;
+height: Hug (347px)px;
+gap: 55px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+.button{
+    width: 170px;
+height: 48px;
+top: 2028px;
+left: 635px;
+gap: 0px;
+opacity: 0px;
+margin-left: 45%;
+background-color: black;
+color: #FFFFFF;
+}
+.groub24{
+    width: 1440px;
+height: 125px;
+top: 2915px;
+gap: 0px;
+opacity: 0px;
+background: #74C69D;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+margin-top: 50px;
+
+}
+.fram31{
+    width: Fixed (1,178px)px;
+height: Hug (25px)px;
+top: 2966px;
+left: 131px;
+gap: 0px;
+justify: space-between;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+justify-content: start;
+margin-left: 100px;
+}
+.fram30{
+    width: Hug (242.52px)px;
+height: Hug (18px)px;
+gap: 20px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+
+}
+.logo{
+    width: 326px;
+height: 25px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Sub-Heading/Regular;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+text-align: right;
+color: #FFFFFF;
+margin-left: 35%;
+}

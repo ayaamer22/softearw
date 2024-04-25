@@ -1,0 +1,535 @@
+.desktop1{
+    width: 1440px;
+height: 3040px;
+top: -513px;
+left: -720px;
+gap: 0px;
+opacity: 0px;
+
+
+
+}
+/*
+للمستطيل الاخضر
+*/
+.fram1{
+    width: 1440px;
+height: 586px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+background: #74C69D;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px 0px #00000040;
+display: flex;
+flex-direction: column;
+justify-content: center;
+
+/* عند start*/
+}
+.fram9{
+    width: Fixed (1,175px)px;
+    height: Hug (50px)px;
+    top: 35px;
+    left: 135px;
+    gap: 0px;
+    justify: space-between;
+    opacity: 0px;
+    display: flex;
+    flex-direction: row;
+    
+    
+
+}
+.fram4{
+    width: Hug (187px)px;
+    height: Hug (50px)px;
+    gap: 18px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: row;
+    
+    
+
+}
+.groub1{
+    width: 70px;
+    height: 48.31px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 40px;    
+
+}
+.Start{
+    width: 99px;
+height: 50px;
+gap: 0px;
+opacity: 0px;
+font-family: Work Sans;
+font-size: 40px;
+font-weight: 500;
+line-height: 50px;
+text-align: left;
+color: #FFFFFF;
+margin-left: 55px;
+margin-top: 25px;
+}
+.fram8{
+    width: Hug (391px)px;
+height: Hug (25px)px;
+gap: 30px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+justify-content: end;
+color: #FFFFFF;
+margin-left: 50%;
+}
+
+.fram7{
+    width: Hug (1,180.28px)px;
+height: Hug (378.13px)px;
+top: 125px;
+left: 130px;
+gap: 120px;
+opacity: 0px;
+padding-top: 70px;
+padding-left: 70px;
+}
+.fram2{
+    width: Hug (416px)px;
+height: Hug (299px)px;
+gap: 25px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+
+}
+.fram0{
+    width: Hug (416px)px;
+height: Hug (226px)px;
+gap: 15px;
+opacity: 0px;
+
+}
+.welcome{
+
+    width: 113px;
+height: 20px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography / Label / Bold;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 5px;
+text-align: left;
+color: #FFFFFF;
+
+
+}
+.lorem{
+    width: 416px;
+height: 100px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Heading/Bold 1;
+font-family: Crimson Text;
+font-size: 40px;
+font-weight: 700;
+line-height: 50px;
+text-align: left;
+color: #FFFFFF;
+}
+.lorem2{
+    width: 416px;
+height: 76px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Body/Regular;
+font-family: Work Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 18.75px;
+text-align: left;
+color: #FFFFFFBF;
+
+}
+.button{
+    width: 170px;
+height: 48px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.bigGroub{
+
+    width: 644.28px;
+    height: 378.13px;
+    left: 536px;
+    gap: 0px;
+    opacity: 0px;
+    
+   
+}
+.fram26{
+    width: Hug (1,158.98px)px;
+height: Hug (370px)px;
+top: 623px;
+left: 151px;
+gap: 55px;
+opacity: 0px;
+
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+.fram25{
+    width: Hug (411px)px;
+height: Hug (162px)px;
+gap: 16px;
+opacity: 0px;
+
+}
+.PARTNERS{
+    width:50%;
+    height: 20px;
+    gap: 0px;
+    opacity: 0px;
+   list-style: Typography / Label / Bold;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 5px;
+   margin: auto;
+   text-align: center;
+margin-top: 10px;
+    color: #74C69D;
+        
+
+}
+.lorem3{
+    width: 50%px;
+    height: 50px;
+    gap: 0px;
+    opacity: 0px;
+    list-style: Typography/Heading/Bold 1;
+    font-family: Crimson Text;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: center;
+    margin: auto;
+        
+}
+.lorem4{
+    width: 411px;
+height: 60px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Sub-Heading/Regular;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+text-align: center;
+color: #000000;
+
+}
+.fram24{
+    width: Hug (1,158.98px)px;
+    height: Hug (50px)px;
+    gap: 68px;
+    opacity: 0px;
+display: flex;
+flex-direction: row;    
+justify-content: center;
+
+}
+.buttonLearn{
+    width: 170px;
+height: 67px;
+top: 1022px;
+left: 660px;
+gap: 0px;
+opacity: 0px;
+text-align: center;
+color: #FFFFFF;
+background: #212529;
+margin-top: 50px;
+margin-left: 45%;
+}
+.fram15{
+    width: Fixed (1,180px)px;
+height: Hug (431.43px)px;
+top: 1163px;
+left: 152px;
+gap: 0px;
+justify: space-between;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+
+}
+.groub2{
+    width: 600px;
+    height: 431.43px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 20px;
+   
+}
+.fram12{
+    width: Hug (470px)px;
+height: Hug (255px)px;
+gap: 16px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+}
+.nemore{
+    width: 462px;
+height: 100px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Heading/Bold 1;
+font-family: Crimson Text;
+font-size: 40px;
+font-weight: 700;
+line-height: 50px;
+text-align: left;
+color: #000000;
+
+}
+.dicat
+{
+    width: 470px;
+height: 75px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Body/Regular;
+font-family: Work Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 18.75px;
+text-align: left;
+color: #21252980;
+
+}
+.learnmore{
+    width: 170px;
+height: 48px;
+gap: 0px;
+opacity: 0px;
+color: #FFFFFF;
+background-color: #000000;
+}
+.fram14{
+    width: Fixed (1,180px)px;
+height: Hug (565.73px)px;
+top: 1594px;
+left: 130px;
+gap: 0px;
+justify: space-between;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+.fram13{
+    width: Hug (470px)px;
+height: Hug (255px)px;
+gap: 16px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+margin-left: 50px;
+}
+.dolorem{
+    width: 470px;
+    height: 100px;
+    gap: 0px;
+    opacity: 0px;
+    list-style: Typography/Heading/Bold 1;
+    font-family: Crimson Text;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: left;
+    color: #212529;
+
+        
+}
+.Ea{
+    width: 470px;
+height: 75px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Body/Regular;
+font-family: Work Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 18.75px;
+text-align: left;
+color: #21252980;
+
+}
+.midGroub{
+    width: 600px;
+height: 565.73px;
+gap: 0px;
+opacity: 0px;
+
+}
+.fram29{
+    width: Hug (1,176px)px;
+height: Hug (599px)px;
+top: 2262px;
+left: 132px;
+gap: 45px;
+opacity: 0px;
+
+
+}
+.fram27
+{
+    width: Hug (404px)px;
+    height: Hug (162px)px;
+    gap: 16px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    margin-top: 30px;
+}
+.scriptorem{
+    width: 61px;
+    height: 20px;
+    gap: 0px;
+    opacity: 0px;
+    list-style: Typography / Label / Bold;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 5px;
+    text-align: center;
+    color: #74C69D;
+    margin-left: 50%;
+    
+}
+.sit{
+    width: 206px;
+height: 50px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Heading/Bold 1;
+font-family: Crimson Text;
+font-size: 40px;
+font-weight: 700;
+line-height: 50px;
+text-align: center;
+color: #212529;
+margin-left: 45%;
+
+}
+.vix{
+    width: 404px;
+    height: 60px;
+    gap: 0px;
+    opacity: 0px;
+    list-style: Typography/Sub-Heading/Regular;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: center;
+        
+color: #000000;
+margin-left: 35%;
+}
+.fram28{
+    width: Hug (1,176px)px;
+height: Hug (299px)px;
+gap: 47px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+.ViewTeam{
+    width: 170px;
+height: 67px;
+top: 1022px;
+left: 660px;
+gap: 0px;
+opacity: 0px;
+text-align: center;
+color: #FFFFFF;
+background: #212529;
+        
+margin-left: 50%;
+background-color: #000000;
+color: #FFFFFF;
+margin-top: 30px;
+
+}
+.groub24{
+    width: 1440px;
+height: 125px;
+top: 2915px;
+gap: 0px;
+opacity: 0px;
+background: #74C69D;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+margin-top: 50px;
+
+}
+.fram31{
+    width: Fixed (1,178px)px;
+height: Hug (25px)px;
+top: 2966px;
+left: 131px;
+gap: 0px;
+justify: space-between;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+justify-content: start;
+margin-left: 100px;
+}
+.fram30{
+    width: Hug (242.52px)px;
+height: Hug (18px)px;
+gap: 20px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+
+}
+.logo{
+    width: 326px;
+height: 25px;
+gap: 0px;
+opacity: 0px;
+list-style: Typography/Sub-Heading/Regular;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+text-align: right;
+color: #FFFFFF;
+margin-left: 35%;
+}
